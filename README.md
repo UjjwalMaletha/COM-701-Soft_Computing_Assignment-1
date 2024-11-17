@@ -1,4 +1,4 @@
-# COM-701-Soft_Computing_Assignment
+# COM-701(C)-Soft_Computing_Assignment <br>
 ## Optimizing Convolutional Neural Network for Image Classification Using Random Search: Impact Analysis on Accuracy, Precision, Recall, and F1-Score
 
 ### Link of Google Collab
