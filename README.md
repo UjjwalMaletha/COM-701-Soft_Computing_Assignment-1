@@ -8,7 +8,7 @@ https://onedrive.live.com/?authkey=%21AG6NeP2ZJSQocMs&id=38523F73D2FC2EFF%212649
 Methodology: Convolutional Neural Network and fine tuning through random search
 ## accuracy: 99%
 
-![Sample Image](https://drive.google.com/file/d/1f_xJFijParFvxK4s77SNmhSS6UOGDlHs/view?usp=sharing)
+![ROC-Curve](./ROC-curve.jpeg)
 
 
 
