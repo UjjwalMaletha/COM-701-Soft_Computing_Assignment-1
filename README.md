@@ -9,6 +9,7 @@ Methodology: Convolutional Neural Network and fine tuning through random search
 ## Accuracy: 99%
 
 ![ROC-Curve](./ROC-curve.jpeg)
+**Figure 1:** ROC-curve.
 ## Results Analysis
 The ROC curve analysis reveals promising results for the model's performance. With an AUC of 0.76, the model demonstrates a strong ability to distinguish between positive and negative cases. The curve's trajectory towards the top-left corner indicates a good balance between sensitivity and specificity. These findings suggest that the model has the potential to make accurate predictions and can be a valuable tool in decision-making processes.
 
